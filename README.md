@@ -19,7 +19,7 @@ A FastAPI-based server providing OpenAI-compatible API endpoints for Ollama mode
 
 ```bash
 # Clone repository
-git clone 
+git clone https://github.com/Trinity1804/ollama-api-server.git
 cd ollama-api-server
 
 # Create virtual environment
